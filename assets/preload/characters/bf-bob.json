@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle dance"
+		},
+		{
+			"offsets": [
+				-12,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left pose"
+		},
+		{
+			"offsets": [
+				-5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down pose"
+		},
+		{
+			"offsets": [
+				-18,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up pose"
+		},
+		{
+			"offsets": [
+				-15,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right pose"
+		},
+		{
+			"offsets": [
+				-9,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf left miss"
+		},
+		{
+			"offsets": [
+				10,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf down miss"
+		},
+		{
+			"offsets": [
+				-9,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf up miss"
+		},
+		{
+			"offsets": [
+				-9,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf right miss"
+		},
+		{
+			"offsets": [
+				19,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "coolLEFT",
+			"loop": false,
+			"name": "bf cool left pose"
+		},
+		{
+			"offsets": [
+				-22,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "coolRIGHT",
+			"loop": false,
+			"name": "bf cool right pose"
+		},
+		{
+			"offsets": [
+				-22,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "coolUP",
+			"loop": false,
+			"name": "bf cool up pose"
+		},
+		{
+			"offsets": [
+				0,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "bf hey anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bobbyboyfriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				-356
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RunIdle"
+		},
+		{
+			"offsets": [
+				-2,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RunUp"
+		},
+		{
+			"offsets": [
+				-149,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RunRight"
+		},
+		{
+			"offsets": [
+				40,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RunLeft"
+		},
+		{
+			"offsets": [
+				-33,
+				-468
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RunDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RunBob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "OldRun",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-10,
+		450
+	],
+	"sing_duration": 5.3,
+	"scale": 1
+}

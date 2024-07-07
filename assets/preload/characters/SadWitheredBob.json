@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-103,
+				-348
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WitheredSadnessIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-65,
+				-345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SadnessUp"
+		},
+		{
+			"offsets": [
+				-98,
+				-344
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SadnessLeft"
+		},
+		{
+			"offsets": [
+				-133,
+				-354
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SadnessRight"
+		},
+		{
+			"offsets": [
+				-78,
+				-437
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SadnessDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SadWitheredBob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "with",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		450
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

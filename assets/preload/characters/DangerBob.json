@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-69,
+				-294
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DANGER BOB DANCE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-340
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DANGER BOB RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-350
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DANGER BOB LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DANGER BOB UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-381
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DANGER BOB DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DangerBob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bobT",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		77,
+		0
+	],
+	"camera_position": [
+		-90,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

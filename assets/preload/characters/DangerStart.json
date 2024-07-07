@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "trans",
+			"indices": [],
+			"name": "danger start transition"
+		},
+		{
+			"offsets": [
+				-103,
+				-332
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "danger start animation"
+		},
+		{
+			"offsets": [
+				-63,
+				-332
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "danger start left"
+		},
+		{
+			"offsets": [
+				-83,
+				-315
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "danger start up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-335
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "danger start right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				-364
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "danger start down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DangerStart",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bobI",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

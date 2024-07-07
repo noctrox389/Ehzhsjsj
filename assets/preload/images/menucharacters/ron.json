@@ -1,0 +1,11 @@
+{
+	"idle_anim": "RON MENU",
+	"image": "Menu_Ron",
+	"position": [
+		85,
+		22
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}

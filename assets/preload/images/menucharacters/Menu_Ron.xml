@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Ron.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RON MENU0000" x="0" y="0" width="397" height="394" frameX="0" frameY="-17" frameWidth="404" frameHeight="413"/>
+	<SubTexture name="RON MENU0001" x="0" y="0" width="397" height="394" frameX="0" frameY="-17" frameWidth="404" frameHeight="413"/>
+	<SubTexture name="RON MENU0002" x="397" y="0" width="404" height="404" frameX="0" frameY="-9" frameWidth="404" frameHeight="413"/>
+	<SubTexture name="RON MENU0003" x="397" y="0" width="404" height="404" frameX="0" frameY="-9" frameWidth="404" frameHeight="413"/>
+	<SubTexture name="RON MENU0004" x="0" y="404" width="389" height="411" frameX="-7" frameY="0" frameWidth="404" frameHeight="413"/>
+	<SubTexture name="RON MENU0005" x="0" y="404" width="389" height="411" frameX="-7" frameY="0" frameWidth="404" frameHeight="413"/>
+</TextureAtlas>

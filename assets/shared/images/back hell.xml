@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="back hell">
+    <SubTexture name="back hell0000" x="0" y="0" width="392" height="382" frameWidth="404" frameHeight="396" frameX="-3" frameY="-10" />
+    <SubTexture name="back hell0001" x="0" y="0" width="392" height="382" frameWidth="404" frameHeight="396" frameX="-3" frameY="-10" />
+    <SubTexture name="back hell0002" x="393" y="0" width="399" height="375" frameWidth="404" frameHeight="396" frameX="0" frameY="-11" />
+    <SubTexture name="back hell0003" x="393" y="0" width="399" height="375" frameWidth="404" frameHeight="396" frameX="0" frameY="-11" />
+    <SubTexture name="back hell0004" x="0" y="392" width="402" height="388" frameWidth="404" frameHeight="396" frameX="-1" frameY="-4" />
+    <SubTexture name="back hell0005" x="0" y="392" width="402" height="388" frameWidth="404" frameHeight="396" frameX="-1" frameY="-4" />
+    <SubTexture name="back hell0006" x="403" y="392" width="393" height="391" frameWidth="404" frameHeight="396" frameX="-11" frameY="-2" />
+    <SubTexture name="back hell0007" x="403" y="392" width="393" height="391" frameWidth="404" frameHeight="396" frameX="-11" frameY="-2" />
+    <SubTexture name="back hell0008" x="0" y="793" width="393" height="396" frameWidth="404" frameHeight="396" frameX="-11" frameY="0" />
+    <SubTexture name="back hell0009" x="0" y="793" width="393" height="396" frameWidth="404" frameHeight="396" frameX="-11" frameY="0" />
+    <SubTexture name="back hell0010" x="394" y="793" width="390" height="380" frameWidth="404" frameHeight="396" frameX="-4" frameY="-6" />
+    <SubTexture name="back hell0011" x="394" y="793" width="390" height="380" frameWidth="404" frameHeight="396" frameX="-4" frameY="-6" />
+    <SubTexture name="back hell0012" x="785" y="793" width="396" height="384" frameWidth="404" frameHeight="396" frameX="0" frameY="-6" />
+    <SubTexture name="back hell0013" x="785" y="793" width="396" height="384" frameWidth="404" frameHeight="396" frameX="0" frameY="-6" />
+</TextureAtlas>

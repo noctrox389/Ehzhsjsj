@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="withbushtests">
+    <SubTexture name="foreground withered0000" x="0" y="10" width="1132" height="206" frameWidth="1132" frameHeight="206" frameX="0" frameY="0" />
+    <SubTexture name="foreground withered0001" x="0" y="10" width="1132" height="206" frameWidth="1132" frameHeight="206" frameX="0" frameY="0" />
+    <SubTexture name="foreground withered0002" x="0" y="226" width="1132" height="206" frameWidth="1132" frameHeight="206" frameX="0" frameY="0" />
+    <SubTexture name="foreground withered0003" x="0" y="226" width="1132" height="206" frameWidth="1132" frameHeight="206" frameX="0" frameY="0" />
+    <SubTexture name="foreground withered0004" x="0" y="442" width="1132" height="206" frameWidth="1132" frameHeight="206" frameX="0" frameY="0" />
+    <SubTexture name="foreground withered0005" x="0" y="442" width="1132" height="206" frameWidth="1132" frameHeight="206" frameX="0" frameY="0" />
+</TextureAtlas>

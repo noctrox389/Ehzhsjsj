@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-68,
+				-356
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TROUBLE BOB DANCE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-424
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TROUBLE BOB DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-328
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TROUBLE BOB RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-340
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TROUBLE BOB LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-238
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TROUBLE BOB UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TroubleBob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bobRT",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		77,
+		0
+	],
+	"camera_position": [
+		40,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

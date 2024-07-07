@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": true,
+			"name": "rain gf dance"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": true,
+			"name": "rain gf dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bobbyraintest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

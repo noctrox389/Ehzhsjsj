@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-186,
+				-384
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "classic right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				-415
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "classic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-398
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "classic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-334
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "classic up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-117,
+				-380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "classic bob",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/classic bob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "classic",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		450
+	],
+	"sing_duration": 5.3,
+	"scale": 1.1
+}

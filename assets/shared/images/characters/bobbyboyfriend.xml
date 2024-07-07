@@ -1,0 +1,125 @@
+<TextureAtlas imagePath="bobbyboyfriend">
+    <SubTexture name="bf cool left pose0000" x="0" y="0" width="358" height="419" frameWidth="361" frameHeight="419" frameX="0" frameY="0" />
+    <SubTexture name="bf cool left pose0001" x="0" y="0" width="358" height="419" frameWidth="361" frameHeight="419" frameX="0" frameY="0" />
+    <SubTexture name="bf cool left pose0002" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0003" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0004" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0005" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0006" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0007" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0008" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool left pose0009" x="359" y="0" width="359" height="419" frameWidth="361" frameHeight="419" frameX="-2" frameY="0" />
+    <SubTexture name="bf cool right pose0000" x="719" y="0" width="406" height="432" frameWidth="407" frameHeight="432" frameX="-1" frameY="0" />
+    <SubTexture name="bf cool right pose0001" x="719" y="0" width="406" height="432" frameWidth="407" frameHeight="432" frameX="-1" frameY="0" />
+    <SubTexture name="bf cool right pose0002" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0003" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0004" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0005" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0006" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0007" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0008" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool right pose0009" x="1126" y="0" width="400" height="432" frameWidth="407" frameHeight="432" frameX="0" frameY="0" />
+    <SubTexture name="bf cool up pose0000" x="1527" y="0" width="356" height="452" frameWidth="360" frameHeight="453" frameX="-3" frameY="0" />
+    <SubTexture name="bf cool up pose0001" x="1527" y="0" width="356" height="452" frameWidth="360" frameHeight="453" frameX="-3" frameY="0" />
+    <SubTexture name="bf cool up pose0002" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0003" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0004" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0005" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0006" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0007" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0008" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf cool up pose0009" x="1884" y="0" width="358" height="450" frameWidth="360" frameHeight="453" frameX="0" frameY="-2" />
+    <SubTexture name="bf down miss0000" x="2243" y="0" width="366" height="389" frameWidth="366" frameHeight="393" frameX="0" frameY="-4" />
+    <SubTexture name="bf down miss0001" x="2243" y="0" width="366" height="389" frameWidth="366" frameHeight="393" frameX="0" frameY="-4" />
+    <SubTexture name="bf down miss0002" x="0" y="462" width="356" height="386" frameWidth="366" frameHeight="393" frameX="-8" frameY="0" />
+    <SubTexture name="bf down miss0003" x="0" y="462" width="356" height="386" frameWidth="366" frameHeight="393" frameX="-8" frameY="0" />
+    <SubTexture name="bf down miss0004" x="0" y="462" width="356" height="386" frameWidth="366" frameHeight="393" frameX="-8" frameY="0" />
+    <SubTexture name="bf down miss0005" x="0" y="462" width="356" height="386" frameWidth="366" frameHeight="393" frameX="-8" frameY="0" />
+    <SubTexture name="bf down pose0000" x="357" y="462" width="355" height="390" frameWidth="355" frameHeight="393" frameX="0" frameY="-3" />
+    <SubTexture name="bf down pose0001" x="357" y="462" width="355" height="390" frameWidth="355" frameHeight="393" frameX="0" frameY="-3" />
+    <SubTexture name="bf down pose0002" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0003" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0004" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0005" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0006" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0007" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0008" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf down pose0009" x="713" y="462" width="349" height="393" frameWidth="355" frameHeight="393" frameX="-3" frameY="0" />
+    <SubTexture name="bf hey anim0000" x="1063" y="462" width="332" height="421" frameWidth="365" frameHeight="430" frameX="-10" frameY="-9" />
+    <SubTexture name="bf hey anim0001" x="1396" y="462" width="332" height="425" frameWidth="365" frameHeight="430" frameX="-12" frameY="-5" />
+    <SubTexture name="bf hey anim0002" x="1396" y="462" width="332" height="425" frameWidth="365" frameHeight="430" frameX="-12" frameY="-5" />
+    <SubTexture name="bf hey anim0003" x="1729" y="462" width="348" height="426" frameWidth="365" frameHeight="430" frameX="-17" frameY="-4" />
+    <SubTexture name="bf hey anim0004" x="1729" y="462" width="348" height="426" frameWidth="365" frameHeight="430" frameX="-17" frameY="-4" />
+    <SubTexture name="bf hey anim0005" x="2078" y="462" width="349" height="425" frameWidth="365" frameHeight="430" frameX="-16" frameY="-5" />
+    <SubTexture name="bf hey anim0006" x="2078" y="462" width="349" height="425" frameWidth="365" frameHeight="430" frameX="-16" frameY="-5" />
+    <SubTexture name="bf hey anim0007" x="2078" y="462" width="349" height="425" frameWidth="365" frameHeight="430" frameX="-16" frameY="-5" />
+    <SubTexture name="bf hey anim0008" x="2078" y="462" width="349" height="425" frameWidth="365" frameHeight="430" frameX="-16" frameY="-5" />
+    <SubTexture name="bf hey anim0009" x="0" y="898" width="361" height="426" frameWidth="365" frameHeight="430" frameX="0" frameY="-4" />
+    <SubTexture name="bf hey anim0010" x="0" y="898" width="361" height="426" frameWidth="365" frameHeight="430" frameX="0" frameY="-4" />
+    <SubTexture name="bf hey anim0011" x="362" y="898" width="346" height="429" frameWidth="365" frameHeight="430" frameX="-13" frameY="-1" />
+    <SubTexture name="bf hey anim0012" x="362" y="898" width="346" height="429" frameWidth="365" frameHeight="430" frameX="-13" frameY="-1" />
+    <SubTexture name="bf hey anim0013" x="709" y="898" width="348" height="430" frameWidth="365" frameHeight="430" frameX="-10" frameY="0" />
+    <SubTexture name="bf hey anim0014" x="709" y="898" width="348" height="430" frameWidth="365" frameHeight="430" frameX="-10" frameY="0" />
+    <SubTexture name="bf idle dance0000" x="1058" y="898" width="347" height="430" frameWidth="348" frameHeight="433" frameX="0" frameY="-3" />
+    <SubTexture name="bf idle dance0001" x="1058" y="898" width="347" height="430" frameWidth="348" frameHeight="433" frameX="0" frameY="-3" />
+    <SubTexture name="bf idle dance0002" x="1406" y="898" width="344" height="429" frameWidth="348" frameHeight="433" frameX="-2" frameY="-3" />
+    <SubTexture name="bf idle dance0003" x="1406" y="898" width="344" height="429" frameWidth="348" frameHeight="433" frameX="-2" frameY="-3" />
+    <SubTexture name="bf idle dance0004" x="1751" y="898" width="344" height="432" frameWidth="348" frameHeight="433" frameX="-3" frameY="-1" />
+    <SubTexture name="bf idle dance0005" x="1751" y="898" width="344" height="432" frameWidth="348" frameHeight="433" frameX="-3" frameY="-1" />
+    <SubTexture name="bf idle dance0006" x="2096" y="898" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0007" x="2096" y="898" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0008" x="0" y="1341" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0009" x="0" y="1341" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0010" x="0" y="1341" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0011" x="0" y="1341" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0012" x="343" y="1341" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf idle dance0013" x="343" y="1341" width="342" height="433" frameWidth="348" frameHeight="433" frameX="-3" frameY="0" />
+    <SubTexture name="bf left miss0000" x="686" y="1341" width="334" height="437" frameWidth="343" frameHeight="438" frameX="0" frameY="-1" />
+    <SubTexture name="bf left miss0001" x="686" y="1341" width="334" height="437" frameWidth="343" frameHeight="438" frameX="0" frameY="-1" />
+    <SubTexture name="bf left miss0002" x="1021" y="1341" width="342" height="433" frameWidth="343" frameHeight="438" frameX="-1" frameY="0" />
+    <SubTexture name="bf left miss0003" x="1021" y="1341" width="342" height="433" frameWidth="343" frameHeight="438" frameX="-1" frameY="0" />
+    <SubTexture name="bf left miss0004" x="1021" y="1341" width="342" height="433" frameWidth="343" frameHeight="438" frameX="-1" frameY="0" />
+    <SubTexture name="bf left miss0005" x="1021" y="1341" width="342" height="433" frameWidth="343" frameHeight="438" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0000" x="1364" y="1341" width="337" height="432" frameWidth="343" frameHeight="433" frameX="0" frameY="0" />
+    <SubTexture name="bf left pose0001" x="1364" y="1341" width="337" height="432" frameWidth="343" frameHeight="433" frameX="0" frameY="0" />
+    <SubTexture name="bf left pose0002" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0003" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0004" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0005" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0006" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0007" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0008" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf left pose0009" x="1702" y="1341" width="341" height="432" frameWidth="343" frameHeight="433" frameX="-1" frameY="0" />
+    <SubTexture name="bf right miss0000" x="2044" y="1341" width="357" height="428" frameWidth="361" frameHeight="429" frameX="-4" frameY="0" />
+    <SubTexture name="bf right miss0001" x="2044" y="1341" width="357" height="428" frameWidth="361" frameHeight="429" frameX="-4" frameY="0" />
+    <SubTexture name="bf right miss0002" x="0" y="1788" width="361" height="425" frameWidth="361" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="bf right miss0003" x="0" y="1788" width="361" height="425" frameWidth="361" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="bf right miss0004" x="0" y="1788" width="361" height="425" frameWidth="361" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="bf right miss0005" x="0" y="1788" width="361" height="425" frameWidth="361" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="bf right pose0000" x="362" y="1788" width="354" height="427" frameWidth="354" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="bf right pose0001" x="362" y="1788" width="354" height="427" frameWidth="354" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="bf right pose0002" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0003" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0004" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0005" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0006" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0007" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0008" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf right pose0009" x="717" y="1788" width="352" height="428" frameWidth="354" frameHeight="429" frameX="0" frameY="0" />
+    <SubTexture name="bf up miss0000" x="1070" y="1788" width="336" height="447" frameWidth="341" frameHeight="448" frameX="-4" frameY="0" />
+    <SubTexture name="bf up miss0001" x="1070" y="1788" width="336" height="447" frameWidth="341" frameHeight="448" frameX="-4" frameY="0" />
+    <SubTexture name="bf up miss0002" x="1407" y="1788" width="341" height="442" frameWidth="341" frameHeight="448" frameX="0" frameY="-6" />
+    <SubTexture name="bf up miss0003" x="1407" y="1788" width="341" height="442" frameWidth="341" frameHeight="448" frameX="0" frameY="-6" />
+    <SubTexture name="bf up miss0004" x="1407" y="1788" width="341" height="442" frameWidth="341" frameHeight="448" frameX="0" frameY="-6" />
+    <SubTexture name="bf up miss0005" x="1407" y="1788" width="341" height="442" frameWidth="341" frameHeight="448" frameX="0" frameY="-6" />
+    <SubTexture name="bf up pose0000" x="1749" y="1788" width="332" height="449" frameWidth="335" frameHeight="449" frameX="-2" frameY="0" />
+    <SubTexture name="bf up pose0001" x="1749" y="1788" width="332" height="449" frameWidth="335" frameHeight="449" frameX="-2" frameY="0" />
+    <SubTexture name="bf up pose0002" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0003" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0004" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0005" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0006" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0007" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0008" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+    <SubTexture name="bf up pose0009" x="2082" y="1788" width="335" height="445" frameWidth="335" frameHeight="449" frameX="0" frameY="-4" />
+</TextureAtlas>

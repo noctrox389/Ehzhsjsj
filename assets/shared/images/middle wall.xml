@@ -1,0 +1,3 @@
+<TextureAtlas imagePath="middle wall">
+    <SubTexture name="middle wall0000" x="0" y="10" width="2304" height="1112" frameWidth="2305" frameHeight="1112" frameX="0" frameY="0" />
+</TextureAtlas>

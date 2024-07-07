@@ -1,0 +1,3 @@
+<TextureAtlas imagePath="hell background">
+    <SubTexture name="hell background0000" x="0" y="10" width="596" height="577" frameWidth="596" frameHeight="577" frameX="0" frameY="0" />
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"storyName": "Bobbington's Overshoot",
+	"difficulties": "Hard, Happy",
+	"hideFreeplay": false,
+	"weekBackground": "gleefulhilltop",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Gleeful",
+			"bob",
+			[
+				123,
+				235,
+				120
+			]
+		],
+		[
+			"Impatience",
+			"bobI",
+			[
+				66,
+				93,
+				153
+			]
+		],
+		[
+			"Devastation",
+			"bobD",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bob",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

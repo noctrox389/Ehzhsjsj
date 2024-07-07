@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-118,
+				-126
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mutilation animation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				-243
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mutilation down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				-158
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mutilation right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mutilation left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				-48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mutilation up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mutilation bob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mutilation",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		58,
+		81
+	],
+	"camera_position": [
+		-30,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

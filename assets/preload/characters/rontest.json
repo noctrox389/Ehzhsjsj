@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "classic animation",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-52,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "classic up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-153
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "classic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "classic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				-165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "classic down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rontest",
+	"position": [
+		110,
+		130
+	],
+	"healthicon": "ron",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-110,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

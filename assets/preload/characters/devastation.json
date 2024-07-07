@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "devastation animation"
+		},
+		{
+			"offsets": [
+				90,
+				-58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "devastation down"
+		},
+		{
+			"offsets": [
+				158,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "devastation up"
+		},
+		{
+			"offsets": [
+				83,
+				74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "devastation right"
+		},
+		{
+			"offsets": [
+				283,
+				-184
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "devastation left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devabobtest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bobd",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

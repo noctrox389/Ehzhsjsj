@@ -1,0 +1,40 @@
+<TextureAtlas imagePath="bobhumtest">
+    <SubTexture name="bob down hum0000" x="0" y="0" width="265" height="387" frameWidth="266" frameHeight="391" frameX="0" frameY="-4" />
+    <SubTexture name="bob down hum0001" x="0" y="0" width="265" height="387" frameWidth="266" frameHeight="391" frameX="0" frameY="-4" />
+    <SubTexture name="bob down hum0002" x="266" y="0" width="265" height="387" frameWidth="266" frameHeight="391" frameX="-1" frameY="0" />
+    <SubTexture name="bob down hum0003" x="266" y="0" width="265" height="387" frameWidth="266" frameHeight="391" frameX="-1" frameY="0" />
+    <SubTexture name="bob down hum0004" x="266" y="0" width="265" height="387" frameWidth="266" frameHeight="391" frameX="-1" frameY="0" />
+    <SubTexture name="bob down hum0005" x="266" y="0" width="265" height="387" frameWidth="266" frameHeight="391" frameX="-1" frameY="0" />
+    <SubTexture name="bob left hum0000" x="532" y="0" width="264" height="412" frameWidth="272" frameHeight="413" frameX="0" frameY="0" />
+    <SubTexture name="bob left hum0001" x="532" y="0" width="264" height="412" frameWidth="272" frameHeight="413" frameX="0" frameY="0" />
+    <SubTexture name="bob left hum0002" x="797" y="0" width="264" height="411" frameWidth="272" frameHeight="413" frameX="-8" frameY="-1" />
+    <SubTexture name="bob left hum0003" x="797" y="0" width="264" height="411" frameWidth="272" frameHeight="413" frameX="-8" frameY="-1" />
+    <SubTexture name="bob left hum0004" x="797" y="0" width="264" height="411" frameWidth="272" frameHeight="413" frameX="-8" frameY="-1" />
+    <SubTexture name="bob left hum0005" x="797" y="0" width="264" height="411" frameWidth="272" frameHeight="413" frameX="-8" frameY="-1" />
+    <SubTexture name="bob right hum0000" x="1062" y="0" width="265" height="411" frameWidth="275" frameHeight="411" frameX="-9" frameY="0" />
+    <SubTexture name="bob right hum0001" x="1062" y="0" width="265" height="411" frameWidth="275" frameHeight="411" frameX="-9" frameY="0" />
+    <SubTexture name="bob right hum0002" x="0" y="422" width="266" height="411" frameWidth="275" frameHeight="411" frameX="0" frameY="0" />
+    <SubTexture name="bob right hum0003" x="0" y="422" width="266" height="411" frameWidth="275" frameHeight="411" frameX="0" frameY="0" />
+    <SubTexture name="bob right hum0004" x="0" y="422" width="266" height="411" frameWidth="275" frameHeight="411" frameX="0" frameY="0" />
+    <SubTexture name="bob right hum0005" x="0" y="422" width="266" height="411" frameWidth="275" frameHeight="411" frameX="0" frameY="0" />
+    <SubTexture name="bob up hum0000" x="267" y="422" width="265" height="416" frameWidth="266" frameHeight="417" frameX="0" frameY="0" />
+    <SubTexture name="bob up hum0001" x="267" y="422" width="265" height="416" frameWidth="266" frameHeight="417" frameX="0" frameY="0" />
+    <SubTexture name="bob up hum0002" x="533" y="422" width="265" height="411" frameWidth="266" frameHeight="417" frameX="-1" frameY="-5" />
+    <SubTexture name="bob up hum0003" x="533" y="422" width="265" height="411" frameWidth="266" frameHeight="417" frameX="-1" frameY="-5" />
+    <SubTexture name="bob up hum0004" x="533" y="422" width="265" height="411" frameWidth="266" frameHeight="417" frameX="-1" frameY="-5" />
+    <SubTexture name="bob up hum0005" x="533" y="422" width="265" height="411" frameWidth="266" frameHeight="417" frameX="-1" frameY="-5" />
+    <SubTexture name="sunshine animation0000" x="799" y="422" width="294" height="399" frameWidth="294" frameHeight="401" frameX="0" frameY="-1" />
+    <SubTexture name="sunshine animation0001" x="799" y="422" width="294" height="399" frameWidth="294" frameHeight="401" frameX="0" frameY="-1" />
+    <SubTexture name="sunshine animation0002" x="1094" y="422" width="292" height="398" frameWidth="294" frameHeight="401" frameX="0" frameY="-2" />
+    <SubTexture name="sunshine animation0003" x="1094" y="422" width="292" height="398" frameWidth="294" frameHeight="401" frameX="0" frameY="-2" />
+    <SubTexture name="sunshine animation0004" x="0" y="848" width="289" height="399" frameWidth="294" frameHeight="401" frameX="-2" frameY="-1" />
+    <SubTexture name="sunshine animation0005" x="0" y="848" width="289" height="399" frameWidth="294" frameHeight="401" frameX="-2" frameY="-1" />
+    <SubTexture name="sunshine animation0006" x="290" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0007" x="290" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0008" x="572" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0009" x="572" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0010" x="572" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0011" x="572" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0012" x="854" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+    <SubTexture name="sunshine animation0013" x="854" y="848" width="281" height="400" frameWidth="294" frameHeight="401" frameX="-10" frameY="0" />
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<TextureAtlas imagePath="gf dialogue">
+    <SubTexture name="gf dialogue normal0000" x="0" y="0" width="266" height="311" frameWidth="266" frameHeight="311" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue normal0001" x="0" y="0" width="266" height="311" frameWidth="266" frameHeight="311" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue normal0002" x="267" y="0" width="264" height="311" frameWidth="266" frameHeight="311" frameX="-1" frameY="0" />
+    <SubTexture name="gf dialogue normal0003" x="267" y="0" width="264" height="311" frameWidth="266" frameHeight="311" frameX="-1" frameY="0" />
+    <SubTexture name="gf dialogue normal0004" x="532" y="0" width="265" height="311" frameWidth="266" frameHeight="311" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue normal0005" x="532" y="0" width="265" height="311" frameWidth="266" frameHeight="311" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue normal0006" x="798" y="0" width="266" height="311" frameWidth="266" frameHeight="311" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue normal0007" x="798" y="0" width="266" height="311" frameWidth="266" frameHeight="311" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue sex0000" x="0" y="321" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue sex0001" x="0" y="321" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue sex0002" x="267" y="321" width="264" height="312" frameWidth="266" frameHeight="312" frameX="-1" frameY="0" />
+    <SubTexture name="gf dialogue sex0003" x="267" y="321" width="264" height="312" frameWidth="266" frameHeight="312" frameX="-1" frameY="0" />
+    <SubTexture name="gf dialogue sex0004" x="532" y="321" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue sex0005" x="532" y="321" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue sex0006" x="799" y="321" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue sex0007" x="799" y="321" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue stunned0000" x="0" y="643" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue stunned0001" x="0" y="643" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue stunned0002" x="267" y="643" width="264" height="312" frameWidth="266" frameHeight="312" frameX="-1" frameY="0" />
+    <SubTexture name="gf dialogue stunned0003" x="267" y="643" width="264" height="312" frameWidth="266" frameHeight="312" frameX="-1" frameY="0" />
+    <SubTexture name="gf dialogue stunned0004" x="532" y="643" width="265" height="312" frameWidth="266" frameHeight="312" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue stunned0005" x="532" y="643" width="265" height="312" frameWidth="266" frameHeight="312" frameX="0" frameY="0" />
+    <SubTexture name="gf dialogue stunned0006" x="798" y="643" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+    <SubTexture name="gf dialogue stunned0007" x="798" y="643" width="266" height="311" frameWidth="266" frameHeight="312" frameX="0" frameY="-1" />
+</TextureAtlas>

@@ -1,0 +1,36 @@
+<TextureAtlas imagePath="ron dialogue">
+    <SubTexture name="classic dialogue anger0000" x="0" y="0" width="274" height="322" frameWidth="284" frameHeight="324" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue anger0001" x="0" y="0" width="274" height="322" frameWidth="284" frameHeight="324" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue anger0002" x="275" y="0" width="271" height="321" frameWidth="284" frameHeight="324" frameX="-11" frameY="-1" />
+    <SubTexture name="classic dialogue anger0003" x="275" y="0" width="271" height="321" frameWidth="284" frameHeight="324" frameX="-11" frameY="-1" />
+    <SubTexture name="classic dialogue anger0004" x="547" y="0" width="275" height="324" frameWidth="284" frameHeight="324" frameX="-9" frameY="0" />
+    <SubTexture name="classic dialogue anger0005" x="547" y="0" width="275" height="324" frameWidth="284" frameHeight="324" frameX="-9" frameY="0" />
+    <SubTexture name="classic dialogue anger0006" x="823" y="0" width="270" height="323" frameWidth="284" frameHeight="324" frameX="-8" frameY="-1" />
+    <SubTexture name="classic dialogue anger0007" x="823" y="0" width="270" height="323" frameWidth="284" frameHeight="324" frameX="-8" frameY="-1" />
+    <SubTexture name="classic dialogue cool0000" x="1094" y="0" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0001" x="1094" y="0" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0002" x="0" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0003" x="0" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0004" x="263" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0005" x="263" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0006" x="526" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue cool0007" x="526" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0000" x="789" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0001" x="789" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0002" x="1052" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0003" x="1052" y="334" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0004" x="0" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0005" x="0" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0006" x="263" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue normal0007" x="263" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0000" x="526" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0001" x="526" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0002" x="789" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0003" x="789" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0004" x="1052" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0005" x="1052" y="661" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0006" x="0" y="988" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+    <SubTexture name="classic dialogue stunned0007" x="0" y="988" width="262" height="317" frameWidth="263" frameHeight="317" frameX="0" frameY="0" />
+<SubTexture name="ron destoyer0000" x="263" y="988" width="352" height="321" frameWidth="352" frameHeight="322" frameX="0" frameY="0" />
+    <SubTexture name="ron grass0000" x="616" y="988" width="519" height="313" frameWidth="519" frameHeight="313" frameX="0" frameY="0" />
+    </TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Bob.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOB MENU0000" x="0" y="0" width="399" height="407" frameX="0" frameY="-7" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0001" x="0" y="0" width="399" height="407" frameX="0" frameY="-7" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0002" x="399" y="0" width="396" height="410" frameX="-3" frameY="-4" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0003" x="399" y="0" width="396" height="410" frameX="-3" frameY="-4" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0004" x="795" y="0" width="394" height="412" frameX="-3" frameY="-2" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0005" x="795" y="0" width="394" height="412" frameX="-3" frameY="-2" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0006" x="1189" y="0" width="397" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0007" x="1189" y="0" width="397" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0008" x="1586" y="0" width="400" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0009" x="1586" y="0" width="400" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0010" x="1586" y="0" width="400" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0011" x="1586" y="0" width="400" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0012" x="1586" y="0" width="400" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+	<SubTexture name="BOB MENU0013" x="1586" y="0" width="400" height="414" frameX="-3" frameY="0" frameWidth="403" frameHeight="414"/>
+</TextureAtlas>

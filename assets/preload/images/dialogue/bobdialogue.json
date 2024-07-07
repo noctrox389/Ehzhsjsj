@@ -1,0 +1,50 @@
+{
+	"position": [
+		200,
+		130
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "bob dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gleeful dialogue normal",
+			"idle_name": "gleeful dialogue normal0007"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stunned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gleeful dialogue stunned",
+			"idle_name": "gleeful dialogue stunned0007"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ermmm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gleeful dialogue ermmm",
+			"idle_name": "gleeful dialogue ermmm0007"
+		}
+	]
+}

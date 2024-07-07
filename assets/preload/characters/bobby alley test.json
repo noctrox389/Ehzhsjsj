@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-324,
+				-251
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": true,
+			"name": "girl alley right dance"
+		},
+		{
+			"offsets": [
+				-324,
+				-251
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": true,
+			"name": "girl alley left dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bobby alley test",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		180,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

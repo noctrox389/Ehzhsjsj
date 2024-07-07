@@ -1,0 +1,32 @@
+{
+	"storyName": "Chun-Li",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "chun-li",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Chun Li",
+			"chun-li",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Chun-Li"
+}

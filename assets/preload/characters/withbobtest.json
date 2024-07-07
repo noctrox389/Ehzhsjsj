@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-79,
+				-408
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "withered down first"
+		},
+		{
+			"offsets": [
+				-137,
+				-342
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "withered up first"
+		},
+		{
+			"offsets": [
+				-28,
+				-371
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "withered left first"
+		},
+		{
+			"offsets": [
+				-28,
+				-371
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "withered left second"
+		},
+		{
+			"offsets": [
+				-93,
+				-351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "withered up second"
+		},
+		{
+			"offsets": [
+				-76,
+				-408
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "withered down second"
+		},
+		{
+			"offsets": [
+				-140,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "withered right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-108,
+				-368
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "withered animation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/withbobtest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bobi",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		-30,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

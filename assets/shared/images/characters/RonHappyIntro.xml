@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="RonHappyIntro">
+    <SubTexture name="RonShitCoolDance0000" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0001" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0002" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0003" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0004" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0005" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0006" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0007" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0008" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0009" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0010" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0011" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0012" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+    <SubTexture name="RonShitCoolDance0013" x="0" y="0" width="312" height="314" frameWidth="312" frameHeight="314" frameX="0" frameY="0" />
+</TextureAtlas>

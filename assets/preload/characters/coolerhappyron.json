@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-386
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "happyronright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-352
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "happyronup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-387
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "happyronleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-360
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "happyrondown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-146,
+				-386
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "happyronidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-356
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "happyroncheer"
+		},
+		{
+			"offsets": [
+				190,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "happyronfinal",
+			"indices": [],
+			"name": "happyronfinal"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				190,
+				-545
+			],
+			"anim": "happyronalt",
+			"fps": 24,
+			"name": "happyronalt",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/coolerhappyron1",
+	"position": [
+		280,
+		370
+	],
+	"healthicon": "oldron",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-580,
+		-370
+	],
+	"sing_duration": 5.3,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,36 @@
+<TextureAtlas imagePath="GF_assets">
+    <SubTexture name="girlfriend idle dance0000" x="0" y="0" width="700" height="659" frameWidth="704" frameHeight="659" frameX="-2" frameY="0" />
+    <SubTexture name="girlfriend idle dance0001" x="701" y="0" width="704" height="658" frameWidth="704" frameHeight="659" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle dance0002" x="701" y="0" width="704" height="658" frameWidth="704" frameHeight="659" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle dance0003" x="1406" y="0" width="700" height="658" frameWidth="704" frameHeight="659" frameX="-2" frameY="-1" />
+    <SubTexture name="girlfriend idle dance0004" x="2107" y="0" width="700" height="658" frameWidth="704" frameHeight="659" frameX="-2" frameY="-1" />
+    <SubTexture name="girlfriend idle dance0005" x="0" y="669" width="699" height="657" frameWidth="704" frameHeight="659" frameX="-2" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0006" x="0" y="669" width="699" height="657" frameWidth="704" frameHeight="659" frameX="-2" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0007" x="700" y="669" width="700" height="647" frameWidth="704" frameHeight="659" frameX="-2" frameY="-12" />
+    <SubTexture name="girlfriend idle dance0008" x="700" y="669" width="700" height="647" frameWidth="704" frameHeight="659" frameX="-2" frameY="-12" />
+    <SubTexture name="girlfriend idle dance0009" x="1401" y="669" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0010" x="2102" y="669" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0011" x="0" y="1336" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0012" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0013" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0014" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0015" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0016" x="1401" y="1336" width="704" height="652" frameWidth="704" frameHeight="659" frameX="0" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0017" x="2106" y="1336" width="704" height="657" frameWidth="704" frameHeight="659" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0018" x="0" y="2003" width="700" height="657" frameWidth="704" frameHeight="659" frameX="-2" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0019" x="701" y="2003" width="700" height="657" frameWidth="704" frameHeight="659" frameX="-2" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0020" x="701" y="2003" width="700" height="657" frameWidth="704" frameHeight="659" frameX="-2" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0021" x="701" y="2003" width="700" height="657" frameWidth="704" frameHeight="659" frameX="-2" frameY="-2" />
+    <SubTexture name="girlfriend idle dance0022" x="1402" y="2003" width="699" height="656" frameWidth="704" frameHeight="659" frameX="-2" frameY="-3" />
+    <SubTexture name="girlfriend idle dance0023" x="1402" y="2003" width="699" height="656" frameWidth="704" frameHeight="659" frameX="-2" frameY="-3" />
+    <SubTexture name="girlfriend idle dance0024" x="2102" y="2003" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0025" x="2102" y="2003" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0026" x="0" y="2670" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0027" x="701" y="2670" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0028" x="0" y="1336" width="700" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0029" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0030" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0031" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0032" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+    <SubTexture name="girlfriend idle dance0033" x="701" y="1336" width="699" height="652" frameWidth="704" frameHeight="659" frameX="-2" frameY="-7" />
+</TextureAtlas>

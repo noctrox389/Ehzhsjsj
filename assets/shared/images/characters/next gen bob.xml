@@ -1,0 +1,48 @@
+<TextureAtlas imagePath="next gen bob">
+    <SubTexture name="gen down0000" x="0" y="0" width="442" height="355" frameWidth="461" frameHeight="395" frameX="0" frameY="-40" />
+    <SubTexture name="gen down0001" x="0" y="0" width="442" height="355" frameWidth="461" frameHeight="395" frameX="0" frameY="-40" />
+    <SubTexture name="gen down0002" x="443" y="0" width="436" height="360" frameWidth="461" frameHeight="395" frameX="-6" frameY="-35" />
+    <SubTexture name="gen down0003" x="443" y="0" width="436" height="360" frameWidth="461" frameHeight="395" frameX="-6" frameY="-35" />
+    <SubTexture name="gen down0004" x="443" y="0" width="436" height="360" frameWidth="461" frameHeight="395" frameX="-6" frameY="-35" />
+    <SubTexture name="gen down0005" x="443" y="0" width="436" height="360" frameWidth="461" frameHeight="395" frameX="-6" frameY="-35" />
+    <SubTexture name="gen down0006" x="880" y="0" width="420" height="395" frameWidth="461" frameHeight="395" frameX="-41" frameY="0" />
+    <SubTexture name="gen down0007" x="880" y="0" width="420" height="395" frameWidth="461" frameHeight="395" frameX="-41" frameY="0" />
+    <SubTexture name="gen left0000" x="1301" y="0" width="326" height="428" frameWidth="337" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="gen left0001" x="1301" y="0" width="326" height="428" frameWidth="337" frameHeight="429" frameX="0" frameY="-1" />
+    <SubTexture name="gen left0002" x="0" y="438" width="325" height="428" frameWidth="337" frameHeight="429" frameX="-6" frameY="-1" />
+    <SubTexture name="gen left0003" x="0" y="438" width="325" height="428" frameWidth="337" frameHeight="429" frameX="-6" frameY="-1" />
+    <SubTexture name="gen left0004" x="0" y="438" width="325" height="428" frameWidth="337" frameHeight="429" frameX="-6" frameY="-1" />
+    <SubTexture name="gen left0005" x="0" y="438" width="325" height="428" frameWidth="337" frameHeight="429" frameX="-6" frameY="-1" />
+    <SubTexture name="gen left0006" x="326" y="438" width="260" height="429" frameWidth="337" frameHeight="429" frameX="-77" frameY="0" />
+    <SubTexture name="gen left0007" x="326" y="438" width="260" height="429" frameWidth="337" frameHeight="429" frameX="-77" frameY="0" />
+    <SubTexture name="gen right0000" x="587" y="438" width="436" height="435" frameWidth="449" frameHeight="435" frameX="-12" frameY="0" />
+    <SubTexture name="gen right0001" x="587" y="438" width="436" height="435" frameWidth="449" frameHeight="435" frameX="-12" frameY="0" />
+    <SubTexture name="gen right0002" x="1024" y="438" width="432" height="434" frameWidth="449" frameHeight="435" frameX="-10" frameY="-1" />
+    <SubTexture name="gen right0003" x="1024" y="438" width="432" height="434" frameWidth="449" frameHeight="435" frameX="-10" frameY="-1" />
+    <SubTexture name="gen right0004" x="1024" y="438" width="432" height="434" frameWidth="449" frameHeight="435" frameX="-10" frameY="-1" />
+    <SubTexture name="gen right0005" x="1024" y="438" width="432" height="434" frameWidth="449" frameHeight="435" frameX="-10" frameY="-1" />
+    <SubTexture name="gen right0006" x="1457" y="438" width="442" height="432" frameWidth="449" frameHeight="435" frameX="0" frameY="-3" />
+    <SubTexture name="gen right0007" x="1457" y="438" width="442" height="432" frameWidth="449" frameHeight="435" frameX="0" frameY="-3" />
+    <SubTexture name="gen up0000" x="0" y="883" width="409" height="487" frameWidth="409" frameHeight="487" frameX="0" frameY="0" />
+    <SubTexture name="gen up0001" x="0" y="883" width="409" height="487" frameWidth="409" frameHeight="487" frameX="0" frameY="0" />
+    <SubTexture name="gen up0002" x="410" y="883" width="405" height="483" frameWidth="409" frameHeight="487" frameX="-1" frameY="-2" />
+    <SubTexture name="gen up0003" x="410" y="883" width="405" height="483" frameWidth="409" frameHeight="487" frameX="-1" frameY="-2" />
+    <SubTexture name="gen up0004" x="410" y="883" width="405" height="483" frameWidth="409" frameHeight="487" frameX="-1" frameY="-2" />
+    <SubTexture name="gen up0005" x="410" y="883" width="405" height="483" frameWidth="409" frameHeight="487" frameX="-1" frameY="-2" />
+    <SubTexture name="gen up0006" x="816" y="883" width="386" height="472" frameWidth="409" frameHeight="487" frameX="-19" frameY="-14" />
+    <SubTexture name="gen up0007" x="816" y="883" width="386" height="472" frameWidth="409" frameHeight="487" frameX="-19" frameY="-14" />
+    <SubTexture name="next gen bob0000" x="1203" y="883" width="353" height="432" frameWidth="363" frameHeight="439" frameX="0" frameY="-7" />
+    <SubTexture name="next gen bob0001" x="1203" y="883" width="353" height="432" frameWidth="363" frameHeight="439" frameX="0" frameY="-7" />
+    <SubTexture name="next gen bob0002" x="0" y="1380" width="354" height="434" frameWidth="363" frameHeight="439" frameX="0" frameY="-5" />
+    <SubTexture name="next gen bob0003" x="0" y="1380" width="354" height="434" frameWidth="363" frameHeight="439" frameX="0" frameY="-5" />
+    <SubTexture name="next gen bob0004" x="355" y="1380" width="360" height="437" frameWidth="363" frameHeight="439" frameX="0" frameY="-2" />
+    <SubTexture name="next gen bob0005" x="355" y="1380" width="360" height="437" frameWidth="363" frameHeight="439" frameX="0" frameY="-2" />
+    <SubTexture name="next gen bob0006" x="716" y="1380" width="361" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0007" x="716" y="1380" width="361" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0008" x="1078" y="1380" width="362" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0009" x="1078" y="1380" width="362" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0010" x="1078" y="1380" width="362" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0011" x="1078" y="1380" width="362" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0012" x="1441" y="1380" width="363" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+    <SubTexture name="next gen bob0013" x="1441" y="1380" width="363" height="438" frameWidth="363" frameHeight="439" frameX="0" frameY="-1" />
+</TextureAtlas>

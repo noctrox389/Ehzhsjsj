@@ -1,0 +1,30 @@
+<TextureAtlas imagePath="bobby alley test">
+    <SubTexture name="girl alley left dance0000" x="0" y="0" width="326" height="494" frameWidth="326" frameHeight="496" frameX="0" frameY="-2" />
+    <SubTexture name="girl alley left dance0001" x="0" y="0" width="326" height="494" frameWidth="326" frameHeight="496" frameX="0" frameY="-2" />
+    <SubTexture name="girl alley left dance0002" x="327" y="0" width="319" height="495" frameWidth="326" frameHeight="496" frameX="-3" frameY="-1" />
+    <SubTexture name="girl alley left dance0003" x="327" y="0" width="319" height="495" frameWidth="326" frameHeight="496" frameX="-3" frameY="-1" />
+    <SubTexture name="girl alley left dance0004" x="647" y="0" width="320" height="495" frameWidth="326" frameHeight="496" frameX="-4" frameY="-1" />
+    <SubTexture name="girl alley left dance0005" x="647" y="0" width="320" height="495" frameWidth="326" frameHeight="496" frameX="-4" frameY="-1" />
+    <SubTexture name="girl alley left dance0006" x="968" y="0" width="318" height="496" frameWidth="326" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley left dance0007" x="968" y="0" width="318" height="496" frameWidth="326" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley left dance0008" x="0" y="506" width="317" height="496" frameWidth="326" frameHeight="496" frameX="-4" frameY="0" />
+    <SubTexture name="girl alley left dance0009" x="0" y="506" width="317" height="496" frameWidth="326" frameHeight="496" frameX="-4" frameY="0" />
+    <SubTexture name="girl alley left dance0010" x="0" y="506" width="317" height="496" frameWidth="326" frameHeight="496" frameX="-4" frameY="0" />
+    <SubTexture name="girl alley left dance0011" x="0" y="506" width="317" height="496" frameWidth="326" frameHeight="496" frameX="-4" frameY="0" />
+    <SubTexture name="girl alley left dance0012" x="0" y="506" width="317" height="496" frameWidth="326" frameHeight="496" frameX="-4" frameY="0" />
+    <SubTexture name="girl alley left dance0013" x="0" y="506" width="317" height="496" frameWidth="326" frameHeight="496" frameX="-4" frameY="0" />
+    <SubTexture name="girl alley right dance0000" x="318" y="506" width="338" height="493" frameWidth="345" frameHeight="496" frameX="0" frameY="-3" />
+    <SubTexture name="girl alley right dance0001" x="318" y="506" width="338" height="493" frameWidth="345" frameHeight="496" frameX="0" frameY="-3" />
+    <SubTexture name="girl alley right dance0002" x="657" y="506" width="343" height="491" frameWidth="345" frameHeight="496" frameX="-2" frameY="-5" />
+    <SubTexture name="girl alley right dance0003" x="657" y="506" width="343" height="491" frameWidth="345" frameHeight="496" frameX="-2" frameY="-5" />
+    <SubTexture name="girl alley right dance0004" x="1001" y="506" width="333" height="492" frameWidth="345" frameHeight="496" frameX="-4" frameY="-4" />
+    <SubTexture name="girl alley right dance0005" x="1001" y="506" width="333" height="492" frameWidth="345" frameHeight="496" frameX="-4" frameY="-4" />
+    <SubTexture name="girl alley right dance0006" x="0" y="1012" width="319" height="495" frameWidth="345" frameHeight="496" frameX="-4" frameY="-1" />
+    <SubTexture name="girl alley right dance0007" x="0" y="1012" width="319" height="495" frameWidth="345" frameHeight="496" frameX="-4" frameY="-1" />
+    <SubTexture name="girl alley right dance0008" x="320" y="1012" width="318" height="496" frameWidth="345" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley right dance0009" x="320" y="1012" width="318" height="496" frameWidth="345" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley right dance0010" x="320" y="1012" width="318" height="496" frameWidth="345" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley right dance0011" x="320" y="1012" width="318" height="496" frameWidth="345" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley right dance0012" x="320" y="1012" width="318" height="496" frameWidth="345" frameHeight="496" frameX="-3" frameY="0" />
+    <SubTexture name="girl alley right dance0013" x="320" y="1012" width="318" height="496" frameWidth="345" frameHeight="496" frameX="-3" frameY="0" />
+</TextureAtlas>

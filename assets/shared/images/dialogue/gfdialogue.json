@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		70,
+		90
+	],
+	"scale": 1.6,
+	"animations": [
+		{
+			"loop_name": "gf dialogue normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf dialogue normal0007",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gf dialogue stunned",
+			"idle_offsets": [
+				0,
+				1
+			],
+			"idle_name": "gf dialogue stunned0007",
+			"anim": "stunned",
+			"loop_offsets": [
+				0,
+				1
+			]
+		},
+		{
+			"loop_name": "gf dialogue sex",
+			"idle_offsets": [
+				0,
+				1
+			],
+			"idle_name": "gf dialogue sex0007",
+			"anim": "sexy",
+			"loop_offsets": [
+				0,
+				1
+			]
+		}
+	],
+	"image": "gf dialogue"
+}

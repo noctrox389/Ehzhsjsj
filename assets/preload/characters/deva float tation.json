@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "deva float animation"
+		},
+		{
+			"offsets": [
+				66,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "deva float down"
+		},
+		{
+			"offsets": [
+				88,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "deva float up"
+		},
+		{
+			"offsets": [
+				-119,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "deva float right"
+		},
+		{
+			"offsets": [
+				213,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "deva float left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devafloatbobtest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

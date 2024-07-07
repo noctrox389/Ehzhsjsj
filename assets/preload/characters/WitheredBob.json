@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-43,
+				-330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "WitheredIdle"
+		},
+		{
+			"offsets": [
+				-37,
+				-288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "WitheredUp"
+		},
+		{
+			"offsets": [
+				-21,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "WitheredLeft"
+		},
+		{
+			"offsets": [
+				-66,
+				-417
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "WitheredDown"
+		},
+		{
+			"offsets": [
+				-186,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "WitheredRight"
+		},
+		{
+			"offsets": [
+				-94,
+				-336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "WitheredSad",
+			"indices": [],
+			"name": "WitheredSad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WitheredBob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "with",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		450
+	],
+	"sing_duration": 5.3,
+	"scale": 1
+}

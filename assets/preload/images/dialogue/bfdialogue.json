@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		20,
+		125
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "bf dialogue normal",
+			"idle_offsets": [
+				0,
+				5
+			],
+			"idle_name": "bf dialogue normal0007",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				5
+			]
+		},
+		{
+			"loop_name": "bf dialogue alt",
+			"idle_offsets": [
+				0,
+				23
+			],
+			"idle_name": "bf dialogue alt0007",
+			"anim": "beanie",
+			"loop_offsets": [
+				0,
+				23
+			]
+		},
+		{
+			"loop_name": "bf dialogue stunned",
+			"idle_offsets": [
+				0,
+				5
+			],
+			"idle_name": "bf dialogue stunned0007",
+			"anim": "stunned",
+			"loop_offsets": [
+				0,
+				5
+			]
+		},
+		{
+			"loop_name": "bf dialogue beanie stunned",
+			"idle_offsets": [
+				0,
+				23
+			],
+			"idle_name": "bf dialogue beanie stunned0007",
+			"anim": "stunned alt",
+			"loop_offsets": [
+				0,
+				23
+			]
+		},
+		{
+			"loop_name": "bf dialogue hat",
+			"idle_offsets": [
+				0,
+				5
+			],
+			"idle_name": "bf dialogue hat0007",
+			"anim": "trans",
+			"loop_offsets": [
+				0,
+				5
+			]
+		}
+	],
+	"image": "bf dialogue"
+}

@@ -1,0 +1,42 @@
+<TextureAtlas imagePath="bf dialogue">
+    <SubTexture name="bf dialogue alt0000" x="0" y="0" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue alt0001" x="0" y="0" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue alt0002" x="307" y="0" width="304" height="287" frameWidth="307" frameHeight="287" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue alt0003" x="307" y="0" width="304" height="287" frameWidth="307" frameHeight="287" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue alt0004" x="612" y="0" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue alt0005" x="612" y="0" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue alt0006" x="919" y="0" width="306" height="281" frameWidth="307" frameHeight="287" frameX="0" frameY="-5" />
+    <SubTexture name="bf dialogue alt0007" x="919" y="0" width="306" height="281" frameWidth="307" frameHeight="287" frameX="0" frameY="-5" />
+    <SubTexture name="bf dialogue beanie stunned0000" x="0" y="297" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue beanie stunned0001" x="0" y="297" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue beanie stunned0002" x="307" y="297" width="304" height="286" frameWidth="307" frameHeight="287" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue beanie stunned0003" x="307" y="297" width="304" height="286" frameWidth="307" frameHeight="287" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue beanie stunned0004" x="612" y="297" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue beanie stunned0005" x="612" y="297" width="306" height="283" frameWidth="307" frameHeight="287" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue beanie stunned0006" x="919" y="297" width="306" height="281" frameWidth="307" frameHeight="287" frameX="0" frameY="-5" />
+    <SubTexture name="bf dialogue beanie stunned0007" x="919" y="297" width="306" height="281" frameWidth="307" frameHeight="287" frameX="0" frameY="-5" />
+    <SubTexture name="bf dialogue hat0000" x="0" y="593" width="319" height="322" frameWidth="320" frameHeight="324" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue hat0001" x="0" y="593" width="319" height="322" frameWidth="320" frameHeight="324" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue hat0002" x="320" y="593" width="317" height="324" frameWidth="320" frameHeight="324" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue hat0003" x="320" y="593" width="317" height="324" frameWidth="320" frameHeight="324" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue hat0004" x="638" y="593" width="319" height="322" frameWidth="320" frameHeight="324" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue hat0005" x="638" y="593" width="319" height="322" frameWidth="320" frameHeight="324" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue hat0006" x="958" y="593" width="320" height="321" frameWidth="320" frameHeight="324" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue hat0007" x="958" y="593" width="320" height="321" frameWidth="320" frameHeight="324" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue normal0000" x="0" y="927" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue normal0001" x="0" y="927" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue normal0002" x="320" y="927" width="317" height="269" frameWidth="320" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue normal0003" x="320" y="927" width="317" height="269" frameWidth="320" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue normal0004" x="638" y="927" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue normal0005" x="638" y="927" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue normal0006" x="958" y="927" width="320" height="266" frameWidth="320" frameHeight="270" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue normal0007" x="958" y="927" width="320" height="266" frameWidth="320" frameHeight="270" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue stunned0000" x="0" y="1206" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue stunned0001" x="0" y="1206" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue stunned0002" x="320" y="1206" width="317" height="269" frameWidth="320" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue stunned0003" x="320" y="1206" width="317" height="269" frameWidth="320" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="bf dialogue stunned0004" x="638" y="1206" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue stunned0005" x="638" y="1206" width="319" height="267" frameWidth="320" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="bf dialogue stunned0006" x="958" y="1206" width="320" height="266" frameWidth="320" frameHeight="270" frameX="0" frameY="-3" />
+    <SubTexture name="bf dialogue stunned0007" x="958" y="1206" width="320" height="266" frameWidth="320" frameHeight="270" frameX="0" frameY="-3" />
+</TextureAtlas>

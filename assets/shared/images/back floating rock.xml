@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back floating rock.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yet another floating rock0000" x="0" y="0" width="266" height="342" frameX="0" frameY="-5" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0001" x="266" y="0" width="266" height="342" frameX="0" frameY="-5" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0002" x="532" y="0" width="266" height="341" frameX="0" frameY="-14" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0003" x="0" y="0" width="266" height="342" frameX="0" frameY="-13" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0004" x="266" y="0" width="266" height="342" frameX="0" frameY="-19" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0005" x="532" y="0" width="266" height="341" frameX="0" frameY="-19" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0006" x="0" y="0" width="266" height="342" frameX="0" frameY="-16" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0007" x="266" y="0" width="266" height="342" frameX="0" frameY="-16" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0008" x="532" y="0" width="266" height="341" frameX="0" frameY="-4" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0009" x="0" y="0" width="266" height="342" frameX="0" frameY="-3" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0010" x="266" y="0" width="266" height="342" frameX="0" frameY="0" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0011" x="532" y="0" width="266" height="341" frameX="0" frameY="0" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0012" x="0" y="0" width="266" height="342" frameX="0" frameY="0" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0013" x="266" y="0" width="266" height="342" frameX="0" frameY="-1" frameWidth="266" frameHeight="361"/>
+	<SubTexture name="yet another floating rock0014" x="532" y="0" width="266" height="341" frameX="0" frameY="-1" frameWidth="266" frameHeight="361"/>
+</TextureAtlas>

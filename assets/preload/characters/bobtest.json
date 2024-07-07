@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-398
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sunshine down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				-342
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sunshine up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-364
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sunshine right first",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-358
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sunshine left first",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-358
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "sunshine left second",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-110,
+				-360
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sunshine animation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-364
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "sunshine right second",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bobtest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-104,
+				-353
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DevaStandBop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				-221
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DevaStandRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-441
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DevaStandDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-355
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DevaStandLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-274
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DevaStandUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/StandingHappyPillsBob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "BobH",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		235,
+		120
+	],
+	"camera_position": [
+		-10,
+		450
+	],
+	"sing_duration": 5.3,
+	"scale": 1
+}

@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="onlookers">
+    <SubTexture name="audience0000" x="0" y="0" width="886" height="268" frameWidth="886" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="audience0001" x="0" y="0" width="886" height="268" frameWidth="886" frameHeight="270" frameX="0" frameY="-2" />
+    <SubTexture name="audience0002" x="0" y="278" width="884" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0003" x="0" y="278" width="884" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0004" x="0" y="558" width="881" height="270" frameWidth="886" frameHeight="270" frameX="-2" frameY="0" />
+    <SubTexture name="audience0005" x="0" y="558" width="881" height="270" frameWidth="886" frameHeight="270" frameX="-2" frameY="0" />
+    <SubTexture name="audience0006" x="0" y="838" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-2" frameY="0" />
+    <SubTexture name="audience0007" x="0" y="838" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-2" frameY="0" />
+    <SubTexture name="audience0008" x="0" y="1118" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0009" x="0" y="1118" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0010" x="0" y="1118" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0011" x="0" y="1118" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0012" x="0" y="1118" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+    <SubTexture name="audience0013" x="0" y="1118" width="883" height="270" frameWidth="886" frameHeight="270" frameX="-1" frameY="0" />
+</TextureAtlas>

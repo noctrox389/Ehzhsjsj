@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="bushtests">
+    <SubTexture name="foreground sunshine0000" x="0" y="10" width="1140" height="242" frameWidth="1140" frameHeight="242" frameX="0" frameY="0" />
+    <SubTexture name="foreground sunshine0001" x="0" y="10" width="1140" height="242" frameWidth="1140" frameHeight="242" frameX="0" frameY="0" />
+    <SubTexture name="foreground sunshine0002" x="0" y="262" width="1140" height="242" frameWidth="1140" frameHeight="242" frameX="0" frameY="0" />
+    <SubTexture name="foreground sunshine0003" x="0" y="262" width="1140" height="242" frameWidth="1140" frameHeight="242" frameX="0" frameY="0" />
+    <SubTexture name="foreground sunshine0004" x="0" y="514" width="1140" height="242" frameWidth="1140" frameHeight="242" frameX="0" frameY="0" />
+    <SubTexture name="foreground sunshine0005" x="0" y="514" width="1140" height="242" frameWidth="1140" frameHeight="242" frameX="0" frameY="0" />
+</TextureAtlas>

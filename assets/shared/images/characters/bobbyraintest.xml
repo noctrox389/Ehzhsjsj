@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="bobbyraintest">
+    <SubTexture name="rain gf dance0000" x="0" y="0" width="575" height="475" frameWidth="613" frameHeight="475" frameX="0" frameY="0" />
+    <SubTexture name="rain gf dance0001" x="576" y="0" width="575" height="475" frameWidth="613" frameHeight="475" frameX="0" frameY="0" />
+    <SubTexture name="rain gf dance0002" x="0" y="485" width="613" height="471" frameWidth="613" frameHeight="475" frameX="0" frameY="-4" />
+    <SubTexture name="rain gf dance0003" x="614" y="485" width="562" height="471" frameWidth="613" frameHeight="475" frameX="0" frameY="-4" />
+</TextureAtlas>

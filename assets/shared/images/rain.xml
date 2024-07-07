@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="rain">
+    <SubTexture name="rain instance 10000" x="0" y="0" width="1138" height="734" frameWidth="1297" frameHeight="749" frameX="-75" frameY="-15" />
+    <SubTexture name="rain instance 10001" x="0" y="0" width="1138" height="734" frameWidth="1297" frameHeight="749" frameX="-75" frameY="-15" />
+    <SubTexture name="rain instance 10002" x="0" y="744" width="1038" height="630" frameWidth="1297" frameHeight="749" frameX="0" frameY="-37" />
+    <SubTexture name="rain instance 10003" x="0" y="744" width="1038" height="630" frameWidth="1297" frameHeight="749" frameX="0" frameY="-37" />
+    <SubTexture name="rain instance 10004" x="0" y="1384" width="1288" height="635" frameWidth="1297" frameHeight="749" frameX="-9" frameY="0" />
+    <SubTexture name="rain instance 10005" x="0" y="1384" width="1288" height="635" frameWidth="1297" frameHeight="749" frameX="-9" frameY="0" />
+</TextureAtlas>

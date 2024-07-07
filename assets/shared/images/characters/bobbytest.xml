@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="bobbytest">
+    <SubTexture name="girlfriend idle left dance0000" x="0" y="0" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0001" x="0" y="0" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0002" x="515" y="0" width="514" height="478" frameWidth="514" frameHeight="480" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle left dance0003" x="515" y="0" width="514" height="478" frameWidth="514" frameHeight="480" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle left dance0004" x="1030" y="0" width="514" height="478" frameWidth="514" frameHeight="480" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle left dance0005" x="1030" y="0" width="514" height="478" frameWidth="514" frameHeight="480" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle left dance0006" x="1545" y="0" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0007" x="1545" y="0" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0008" x="0" y="490" width="514" height="479" frameWidth="514" frameHeight="480" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle left dance0009" x="0" y="490" width="514" height="479" frameWidth="514" frameHeight="480" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle left dance0010" x="515" y="490" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0011" x="515" y="490" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0012" x="1030" y="490" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0013" x="1030" y="490" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle left dance0014" x="1030" y="490" width="514" height="480" frameWidth="514" frameHeight="480" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle right dance0000" x="1545" y="490" width="515" height="478" frameWidth="515" frameHeight="481" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle right dance0001" x="1545" y="490" width="515" height="478" frameWidth="515" frameHeight="481" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle right dance0002" x="0" y="980" width="515" height="478" frameWidth="515" frameHeight="481" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle right dance0003" x="0" y="980" width="515" height="478" frameWidth="515" frameHeight="481" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle right dance0004" x="516" y="980" width="515" height="478" frameWidth="515" frameHeight="481" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle right dance0005" x="516" y="980" width="515" height="478" frameWidth="515" frameHeight="481" frameX="0" frameY="-2" />
+    <SubTexture name="girlfriend idle right dance0006" x="1032" y="980" width="515" height="480" frameWidth="515" frameHeight="481" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle right dance0007" x="1032" y="980" width="515" height="480" frameWidth="515" frameHeight="481" frameX="0" frameY="0" />
+    <SubTexture name="girlfriend idle right dance0008" x="0" y="1470" width="515" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle right dance0009" x="0" y="1470" width="515" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle right dance0010" x="516" y="1470" width="515" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle right dance0011" x="516" y="1470" width="515" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle right dance0012" x="1032" y="1470" width="514" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle right dance0013" x="1032" y="1470" width="514" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+    <SubTexture name="girlfriend idle right dance0014" x="1032" y="1470" width="514" height="479" frameWidth="515" frameHeight="481" frameX="0" frameY="-1" />
+</TextureAtlas>

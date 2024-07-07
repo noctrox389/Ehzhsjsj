@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "How's it going...DOO DOO STAINS!!!?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "withereddialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "gee whillikers, how doth one grasp such a hurtful remark?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "It's quite the challenge to decipher such a scurrilous quip!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "bitch i don't speak black and white",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bobdialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "bitchy bitch bitch u  ARE black and white",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "babe... isn't that sorta... racist???",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "NO SEX TONIGHT!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "DAMN IT...foiled again",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "trans",
+			"text": "oh wait my beanie fell of let me put it  back on",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "there we go here we are",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "what the fuck did i just listen to",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bobdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "where were we",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "oh ya",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "LISTEN HERE BOB. I do NOTtolerate such HURTFULlanguage around MY PRECIOUS SWEAT PEA.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "fucking dunce",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "angry",
+			"text": "alright that's it... you're in DANGER now....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "withereddialogue"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+<TextureAtlas imagePath="withered dialogue">
+    <SubTexture name="withered dialogue anger instance 10000" x="0" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10001" x="0" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10002" x="199" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10003" x="199" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10004" x="398" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10005" x="398" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10006" x="597" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue anger instance 10007" x="597" y="0" width="198" height="293" frameWidth="198" frameHeight="293" frameX="0" frameY="0" />
+    <SubTexture name="withered dialogue normal instance 10000" x="0" y="303" width="198" height="293" frameWidth="199" frameHeight="294" frameX="-1" frameY="-1" />
+    <SubTexture name="withered dialogue normal instance 10001" x="0" y="303" width="198" height="293" frameWidth="199" frameHeight="294" frameX="-1" frameY="-1" />
+    <SubTexture name="withered dialogue normal instance 10002" x="199" y="303" width="194" height="293" frameWidth="199" frameHeight="294" frameX="-3" frameY="0" />
+    <SubTexture name="withered dialogue normal instance 10003" x="199" y="303" width="194" height="293" frameWidth="199" frameHeight="294" frameX="-3" frameY="0" />
+    <SubTexture name="withered dialogue normal instance 10004" x="394" y="303" width="198" height="292" frameWidth="199" frameHeight="294" frameX="-1" frameY="-1" />
+    <SubTexture name="withered dialogue normal instance 10005" x="394" y="303" width="198" height="292" frameWidth="199" frameHeight="294" frameX="-1" frameY="-1" />
+    <SubTexture name="withered dialogue normal instance 10006" x="593" y="303" width="199" height="292" frameWidth="199" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="withered dialogue normal instance 10007" x="593" y="303" width="199" height="292" frameWidth="199" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="withered dialogue stunned instance 10000" x="0" y="606" width="198" height="292" frameWidth="199" frameHeight="295" frameX="-1" frameY="-2" />
+    <SubTexture name="withered dialogue stunned instance 10001" x="0" y="606" width="198" height="292" frameWidth="199" frameHeight="295" frameX="-1" frameY="-2" />
+    <SubTexture name="withered dialogue stunned instance 10002" x="199" y="606" width="194" height="293" frameWidth="199" frameHeight="295" frameX="-3" frameY="-1" />
+    <SubTexture name="withered dialogue stunned instance 10003" x="199" y="606" width="194" height="293" frameWidth="199" frameHeight="295" frameX="-3" frameY="-1" />
+    <SubTexture name="withered dialogue stunned instance 10004" x="394" y="606" width="198" height="292" frameWidth="199" frameHeight="295" frameX="-1" frameY="-2" />
+    <SubTexture name="withered dialogue stunned instance 10005" x="394" y="606" width="198" height="292" frameWidth="199" frameHeight="295" frameX="-1" frameY="-2" />
+    <SubTexture name="withered dialogue stunned instance 10006" x="593" y="606" width="199" height="292" frameWidth="199" frameHeight="295" frameX="0" frameY="-2" />
+    <SubTexture name="withered dialogue stunned instance 10007" x="593" y="606" width="199" height="292" frameWidth="199" frameHeight="295" frameX="0" frameY="-2" />
+</TextureAtlas>

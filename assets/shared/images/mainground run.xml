@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="mainground run">
+    <SubTexture name="mainground run0000" x="0" y="0" width="628" height="194" frameWidth="735" frameHeight="203" frameX="-42" frameY="-9" />
+    <SubTexture name="mainground run0001" x="0" y="0" width="628" height="194" frameWidth="735" frameHeight="203" frameX="-42" frameY="-9" />
+    <SubTexture name="mainground run0002" x="0" y="204" width="662" height="203" frameWidth="735" frameHeight="203" frameX="-37" frameY="0" />
+    <SubTexture name="mainground run0003" x="0" y="204" width="662" height="203" frameWidth="735" frameHeight="203" frameX="-37" frameY="0" />
+    <SubTexture name="mainground run0004" x="0" y="417" width="627" height="203" frameWidth="735" frameHeight="203" frameX="-49" frameY="0" />
+    <SubTexture name="mainground run0005" x="0" y="417" width="627" height="203" frameWidth="735" frameHeight="203" frameX="-49" frameY="0" />
+    <SubTexture name="mainground run0006" x="628" y="417" width="650" height="203" frameWidth="735" frameHeight="203" frameX="-39" frameY="0" />
+    <SubTexture name="mainground run0007" x="628" y="417" width="650" height="203" frameWidth="735" frameHeight="203" frameX="-39" frameY="0" />
+    <SubTexture name="mainground run0008" x="0" y="630" width="663" height="191" frameWidth="735" frameHeight="203" frameX="-43" frameY="-12" />
+    <SubTexture name="mainground run0009" x="0" y="630" width="663" height="191" frameWidth="735" frameHeight="203" frameX="-43" frameY="-12" />
+    <SubTexture name="mainground run0010" x="0" y="831" width="735" height="179" frameWidth="735" frameHeight="203" frameX="0" frameY="-24" />
+    <SubTexture name="mainground run0011" x="0" y="831" width="735" height="179" frameWidth="735" frameHeight="203" frameX="0" frameY="-24" />
+    <SubTexture name="mainground run0012" x="0" y="1020" width="641" height="184" frameWidth="735" frameHeight="203" frameX="-9" frameY="-19" />
+    <SubTexture name="mainground run0013" x="0" y="1020" width="641" height="184" frameWidth="735" frameHeight="203" frameX="-9" frameY="-19" />
+</TextureAtlas>

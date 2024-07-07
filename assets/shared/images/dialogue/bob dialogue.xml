@@ -1,0 +1,26 @@
+<TextureAtlas imagePath="bob dialogue">
+    <SubTexture name="gleeful dialogue ermmm0000" x="0" y="0" width="198" height="293" frameWidth="199" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue ermmm0001" x="0" y="0" width="198" height="293" frameWidth="199" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue ermmm0002" x="199" y="0" width="194" height="294" frameWidth="199" frameHeight="294" frameX="-2" frameY="0" />
+    <SubTexture name="gleeful dialogue ermmm0003" x="199" y="0" width="194" height="294" frameWidth="199" frameHeight="294" frameX="-2" frameY="0" />
+    <SubTexture name="gleeful dialogue ermmm0004" x="394" y="0" width="198" height="293" frameWidth="199" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue ermmm0005" x="394" y="0" width="198" height="293" frameWidth="199" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue ermmm0006" x="593" y="0" width="199" height="292" frameWidth="199" frameHeight="294" frameX="0" frameY="-2" />
+    <SubTexture name="gleeful dialogue ermmm0007" x="593" y="0" width="199" height="292" frameWidth="199" frameHeight="294" frameX="0" frameY="-2" />
+    <SubTexture name="gleeful dialogue normal0000" x="0" y="304" width="197" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue normal0001" x="0" y="304" width="197" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue normal0002" x="198" y="304" width="195" height="293" frameWidth="198" frameHeight="294" frameX="-1" frameY="0" />
+    <SubTexture name="gleeful dialogue normal0003" x="198" y="304" width="195" height="293" frameWidth="198" frameHeight="294" frameX="-1" frameY="0" />
+    <SubTexture name="gleeful dialogue normal0004" x="394" y="304" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue normal0005" x="394" y="304" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue normal0006" x="593" y="304" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue normal0007" x="593" y="304" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue stunned0000" x="0" y="607" width="197" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue stunned0001" x="0" y="607" width="197" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue stunned0002" x="198" y="607" width="195" height="293" frameWidth="198" frameHeight="294" frameX="-1" frameY="0" />
+    <SubTexture name="gleeful dialogue stunned0003" x="198" y="607" width="195" height="293" frameWidth="198" frameHeight="294" frameX="-1" frameY="0" />
+    <SubTexture name="gleeful dialogue stunned0004" x="394" y="607" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue stunned0005" x="394" y="607" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue stunned0006" x="593" y="607" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+    <SubTexture name="gleeful dialogue stunned0007" x="593" y="607" width="198" height="292" frameWidth="198" frameHeight="294" frameX="0" frameY="-1" />
+</TextureAtlas>

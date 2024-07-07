@@ -1,0 +1,50 @@
+{
+	"storyName": "Ron Rubin Ruckus",
+	"difficulties": "Hard, Happy",
+	"hideFreeplay": false,
+	"weekBackground": "classicsuburbs",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Classic",
+			"ron",
+			[
+				255,
+				215,
+				100
+			]
+		],
+		[
+			"Danger",
+			"bobI",
+			[
+				240,
+				100,
+				150
+			]
+		],
+		[
+			"Mutilation",
+			"mutilation",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"ron",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

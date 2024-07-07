@@ -1,0 +1,50 @@
+{
+	"position": [
+		220,
+		130
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "withered dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "withered dialogue normal",
+			"idle_name": "withered dialogue normal0007"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stunned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "withered dialogue stunned",
+			"idle_name": "withered dialogue stunned0007"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-1
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				-1,
+				-1
+			],
+			"loop_name": "withered dialogue anger",
+			"idle_name": "withered dialogue anger0007"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floating rock.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="other floating rock0000" x="0" y="0" width="458" height="461" frameX="0" frameY="-15" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0001" x="458" y="0" width="458" height="461" frameX="0" frameY="-15" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0002" x="0" y="461" width="458" height="461" frameX="0" frameY="-20" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0003" x="0" y="0" width="458" height="461" frameX="0" frameY="-20" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0004" x="458" y="0" width="458" height="461" frameX="0" frameY="-26" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0005" x="0" y="461" width="458" height="461" frameX="0" frameY="-26" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0006" x="0" y="0" width="458" height="461" frameX="0" frameY="-10" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0007" x="458" y="0" width="458" height="461" frameX="0" frameY="-10" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0008" x="0" y="461" width="458" height="461" frameX="0" frameY="-3" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0009" x="0" y="0" width="458" height="461" frameX="0" frameY="-3" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0010" x="458" y="0" width="458" height="461" frameX="0" frameY="0" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0011" x="0" y="461" width="458" height="461" frameX="0" frameY="0" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0012" x="0" y="0" width="458" height="461" frameX="0" frameY="0" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0013" x="458" y="0" width="458" height="461" frameX="0" frameY="-2" frameWidth="458" frameHeight="487"/>
+	<SubTexture name="other floating rock0014" x="0" y="461" width="458" height="461" frameX="0" frameY="-2" frameWidth="458" frameHeight="487"/>
+</TextureAtlas>

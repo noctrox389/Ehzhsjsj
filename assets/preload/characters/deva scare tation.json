@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "deva scare animation"
+		},
+		{
+			"offsets": [
+				36,
+				-199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "deva scare down"
+		},
+		{
+			"offsets": [
+				88,
+				108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "deva scare up"
+		},
+		{
+			"offsets": [
+				43,
+				46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "deva scare right"
+		},
+		{
+			"offsets": [
+				283,
+				-232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "deva scare left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devascarebobtest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-240,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

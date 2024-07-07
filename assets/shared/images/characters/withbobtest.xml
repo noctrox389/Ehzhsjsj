@@ -1,0 +1,58 @@
+<TextureAtlas imagePath="withbobtest">
+    <SubTexture name="withered animation0000" x="0" y="0" width="339" height="410" frameWidth="358" frameHeight="417" frameX="-1" frameY="-6" />
+    <SubTexture name="withered animation0001" x="0" y="0" width="339" height="410" frameWidth="358" frameHeight="417" frameX="-1" frameY="-6" />
+    <SubTexture name="withered animation0002" x="340" y="0" width="337" height="413" frameWidth="358" frameHeight="417" frameX="0" frameY="-4" />
+    <SubTexture name="withered animation0003" x="340" y="0" width="337" height="413" frameWidth="358" frameHeight="417" frameX="0" frameY="-4" />
+    <SubTexture name="withered animation0004" x="678" y="0" width="341" height="412" frameWidth="358" frameHeight="417" frameX="-6" frameY="-3" />
+    <SubTexture name="withered animation0005" x="678" y="0" width="341" height="412" frameWidth="358" frameHeight="417" frameX="-6" frameY="-3" />
+    <SubTexture name="withered animation0006" x="1020" y="0" width="343" height="414" frameWidth="358" frameHeight="417" frameX="-11" frameY="0" />
+    <SubTexture name="withered animation0007" x="1020" y="0" width="343" height="414" frameWidth="358" frameHeight="417" frameX="-11" frameY="0" />
+    <SubTexture name="withered animation0008" x="1364" y="0" width="343" height="413" frameWidth="358" frameHeight="417" frameX="-12" frameY="0" />
+    <SubTexture name="withered animation0009" x="1364" y="0" width="343" height="413" frameWidth="358" frameHeight="417" frameX="-12" frameY="0" />
+    <SubTexture name="withered animation0010" x="1708" y="0" width="343" height="413" frameWidth="358" frameHeight="417" frameX="-12" frameY="0" />
+    <SubTexture name="withered animation0011" x="1708" y="0" width="343" height="413" frameWidth="358" frameHeight="417" frameX="-12" frameY="0" />
+    <SubTexture name="withered animation0012" x="0" y="424" width="348" height="411" frameWidth="358" frameHeight="417" frameX="-10" frameY="-2" />
+    <SubTexture name="withered animation0013" x="0" y="424" width="348" height="411" frameWidth="358" frameHeight="417" frameX="-10" frameY="-2" />
+    <SubTexture name="withered down first0000" x="349" y="424" width="448" height="349" frameWidth="448" frameHeight="355" frameX="0" frameY="-6" />
+    <SubTexture name="withered down first0001" x="349" y="424" width="448" height="349" frameWidth="448" frameHeight="355" frameX="0" frameY="-6" />
+    <SubTexture name="withered down first0002" x="798" y="424" width="433" height="355" frameWidth="448" frameHeight="355" frameX="-8" frameY="0" />
+    <SubTexture name="withered down first0003" x="798" y="424" width="433" height="355" frameWidth="448" frameHeight="355" frameX="-8" frameY="0" />
+    <SubTexture name="withered down first0004" x="798" y="424" width="433" height="355" frameWidth="448" frameHeight="355" frameX="-8" frameY="0" />
+    <SubTexture name="withered down first0005" x="798" y="424" width="433" height="355" frameWidth="448" frameHeight="355" frameX="-8" frameY="0" />
+    <SubTexture name="withered down second0000" x="1232" y="424" width="519" height="356" frameWidth="523" frameHeight="360" frameX="0" frameY="-4" />
+    <SubTexture name="withered down second0001" x="1232" y="424" width="519" height="356" frameWidth="523" frameHeight="360" frameX="0" frameY="-4" />
+    <SubTexture name="withered down second0002" x="0" y="845" width="512" height="360" frameWidth="523" frameHeight="360" frameX="-11" frameY="0" />
+    <SubTexture name="withered down second0003" x="0" y="845" width="512" height="360" frameWidth="523" frameHeight="360" frameX="-11" frameY="0" />
+    <SubTexture name="withered down second0004" x="0" y="845" width="512" height="360" frameWidth="523" frameHeight="360" frameX="-11" frameY="0" />
+    <SubTexture name="withered down second0005" x="0" y="845" width="512" height="360" frameWidth="523" frameHeight="360" frameX="-11" frameY="0" />
+    <SubTexture name="withered left first0000" x="513" y="845" width="489" height="393" frameWidth="489" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered left first0001" x="513" y="845" width="489" height="393" frameWidth="489" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered left first0002" x="1003" y="845" width="453" height="393" frameWidth="489" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left first0003" x="1003" y="845" width="453" height="393" frameWidth="489" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left first0004" x="1003" y="845" width="453" height="393" frameWidth="489" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left first0005" x="1003" y="845" width="453" height="393" frameWidth="489" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left second0000" x="1457" y="845" width="509" height="393" frameWidth="509" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered left second0001" x="1457" y="845" width="509" height="393" frameWidth="509" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered left second0002" x="0" y="1248" width="473" height="393" frameWidth="509" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left second0003" x="0" y="1248" width="473" height="393" frameWidth="509" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left second0004" x="0" y="1248" width="473" height="393" frameWidth="509" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered left second0005" x="0" y="1248" width="473" height="393" frameWidth="509" frameHeight="393" frameX="-26" frameY="0" />
+    <SubTexture name="withered right0000" x="474" y="1248" width="408" height="393" frameWidth="431" frameHeight="393" frameX="-23" frameY="0" />
+    <SubTexture name="withered right0001" x="474" y="1248" width="408" height="393" frameWidth="431" frameHeight="393" frameX="-23" frameY="0" />
+    <SubTexture name="withered right0002" x="883" y="1248" width="418" height="393" frameWidth="431" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered right0003" x="883" y="1248" width="418" height="393" frameWidth="431" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered right0004" x="883" y="1248" width="418" height="393" frameWidth="431" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered right0005" x="883" y="1248" width="418" height="393" frameWidth="431" frameHeight="393" frameX="0" frameY="0" />
+    <SubTexture name="withered up first0000" x="1302" y="1248" width="320" height="439" frameWidth="321" frameHeight="447" frameX="-1" frameY="0" />
+    <SubTexture name="withered up first0001" x="1302" y="1248" width="320" height="439" frameWidth="321" frameHeight="447" frameX="-1" frameY="0" />
+    <SubTexture name="withered up first0002" x="1623" y="1248" width="320" height="429" frameWidth="321" frameHeight="447" frameX="0" frameY="-18" />
+    <SubTexture name="withered up first0003" x="1623" y="1248" width="320" height="429" frameWidth="321" frameHeight="447" frameX="0" frameY="-18" />
+    <SubTexture name="withered up first0004" x="1623" y="1248" width="320" height="429" frameWidth="321" frameHeight="447" frameX="0" frameY="-18" />
+    <SubTexture name="withered up first0005" x="1623" y="1248" width="320" height="429" frameWidth="321" frameHeight="447" frameX="0" frameY="-18" />
+    <SubTexture name="withered up second0000" x="0" y="1697" width="462" height="414" frameWidth="462" frameHeight="414" frameX="0" frameY="0" />
+    <SubTexture name="withered up second0001" x="0" y="1697" width="462" height="414" frameWidth="462" frameHeight="414" frameX="0" frameY="0" />
+    <SubTexture name="withered up second0002" x="463" y="1697" width="461" height="405" frameWidth="462" frameHeight="414" frameX="0" frameY="-9" />
+    <SubTexture name="withered up second0003" x="463" y="1697" width="461" height="405" frameWidth="462" frameHeight="414" frameX="0" frameY="-9" />
+    <SubTexture name="withered up second0004" x="463" y="1697" width="461" height="405" frameWidth="462" frameHeight="414" frameX="0" frameY="-9" />
+    <SubTexture name="withered up second0005" x="463" y="1697" width="461" height="405" frameWidth="462" frameHeight="414" frameX="0" frameY="-9" />
+</TextureAtlas>

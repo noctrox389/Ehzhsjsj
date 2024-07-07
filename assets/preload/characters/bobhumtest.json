@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-110,
+				-360
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sunshine animation",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-183,
+				-398
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bob down hum"
+		},
+		{
+			"offsets": [
+				-150,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bob up hum"
+		},
+		{
+			"offsets": [
+				-173,
+				-348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bob right hum"
+		},
+		{
+			"offsets": [
+				-136,
+				-346
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bob left hum"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bobhumtest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,332 @@
+{
+	"dialogue": [
+		{
+			"expression": "beanie",
+			"text": "baby you so skibidi you know he FUCKING CHEATED",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "NO HE DIDN'T!!! NO SEX TONIGHT!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "bushes",
+			"text": "Heh... Now's my chance...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "OOGA BOOGA BOOGA!!! give me all of your money",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "Oh snap! What on Earth do we do? Do we...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "A) Give the man our money",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "B) Run away (Naked)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "C) Sing at him",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "Pause the video now and comment your answer!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "hmmmm..... ummmm.. errm.... errrrrrrr...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "this one is tricky.... im gonna have to put on my thinking cap for this.......",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Oooh!! I think I've got the answer!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "cool",
+			"text": "you run those pockets",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "wrong answer",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "angry",
+			"text": "Rats, foiled again...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh goodie! Anyways!! Back to what I was saying!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Hahaha!!! just kidding!!! You're being mugged",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "angry",
+			"text": "i'm gonna give you until the count of...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "wait how many fingers do i have",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "1... 2... 72...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "you're not getting any of my one hundred dollar bills because you're a cheater",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "That's right!!! Pumpkin eater!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "oh wait a second there's an ant on your shoe let me get that off for you",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "Oh snap man thanks",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "What a raw act of kindness thanks homeless man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "Hehe... raw",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Egads! I nearly forgot to inform you!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "what",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "The Ant War",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "What",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "here let me tell you about it",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "viewers at home please skip to the chapter after this to free me from my prison",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "476 AD. The Mongolian ants came and raided my backyard to build center of operations to think up new battle tactics...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "after a small time skip to 659997977 BC, Freddy Fazbear came to life and bite of 659997977'd my poor and sweet grandmama.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "The manhunts are obviously scripted",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "angry",
+			"text": "dude what the fuck i was speaking my truth",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "I don't care I wanna beatbox battle you before I die of old age",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "babe you gotta be nicer to spongebob",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "Sigh... I suppose you are right my little sweet homunculus",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "trans",
+			"text": "I'm sowwy spunchbop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "destroy",
+			"text": "I'm restarting my story",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rondialogue"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		100
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "classic dialogue normal0007",
+			"loop_name": "classic dialogue normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "stunned",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "classic dialogue stunned0007",
+			"loop_name": "classic dialogue stunned"
+		},
+		{
+			"idle_offsets": [
+				11,
+				3
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				11,
+				3
+			],
+			"idle_name": "classic dialogue anger0007",
+			"loop_name": "classic dialogue anger"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cool",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "classic dialogue cool",
+			"idle_name": "classic dialogue cool0007"
+		},
+		{
+			"loop_name": "ron grass",
+			"idle_offsets": [
+				125,
+				-20
+			],
+			"idle_name": "ron grass",
+			"anim": "bushes",
+			"loop_offsets": [
+				125,
+				-20
+			]
+		},
+		{
+			"loop_name": "ron destoyer",
+			"idle_offsets": [
+				11,
+				1
+			],
+			"idle_name": "ron destoyer",
+			"anim": "destroy",
+			"loop_offsets": [
+				11,
+				1
+			]
+		}
+	],
+	"image": "ron dialogue"
+}

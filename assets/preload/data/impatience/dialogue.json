@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "grumble mumble stumble fumble",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "withereddialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "you know this is why your parents dont love you",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "withereddialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "WOWZA WOW that was uncalled for",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "are you by any chance mad that i won and u lost",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "woohoo! start roughhousing silly boys!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "SHUT THE FUCK UP ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "withereddialogue"
+		},
+		{
+			"expression": "stunned alt",
+			"text": "bro she’s just being my little silly billy",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "normal",
+			"text": "i’m going to beat your ass",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "withereddialogue"
+		},
+		{
+			"expression": "beanie",
+			"text": "ur just mad that u cheated in ur speedrun",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdialogue"
+		},
+		{
+			"expression": "stunned",
+			"text": "bro, he did NOT cheat babe!!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "gfdialogue"
+		},
+		{
+			"expression": "angry",
+			"text": "IM NOT FUCKING DREAM MINECRAFT",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "withereddialogue"
+		}
+	]
+}
